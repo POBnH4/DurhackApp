@@ -29,4 +29,8 @@ dependencies {
     implementation 'com.google.android.gms:play-services-maps:16.0.0'
     implementation 'com.google.android.gms:play-services-location:16.0.0'
     implementation 'com.google.android.gms:play-services-base:16.0.1'
+    compile 'org.slf4j:slf4j-simple:1.7.25'
+    compile 'com.clarifai.clarifai-api2:core:2.3.0'
+
+
 }

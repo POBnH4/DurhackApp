@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DurhackApp</string>
+    <string name="photo">photo</string>
+    <string name="previous_locations">Previous locations</string>
 </resources>
